@@ -1,0 +1,4 @@
+name: Skills
+version: ${project.version}
+main: me.duncangaming.skills.Skills
+api-version: 1.19
